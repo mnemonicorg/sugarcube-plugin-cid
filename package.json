@@ -1,7 +1,7 @@
 {
-  "name": "littlefork-boilerplate-plugin",
+  "name": "littlefork-plugin-dem",
   "version": "0.0.1",
-  "description": "A scaffolding repository to quick start a new littlefork plugin.",
+  "description": "digital evidence metadata fields",
   "main": "_dist/index.js",
   "config": {
     "srcDir": "lib",
@@ -29,17 +29,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/littlefork/littlefork-boilerplate-plugin.git"
+    "url": "git+https://github.com/syrianarchive/littlefork-plugin-dem.git"
   },
   "keywords": [
     "littlefork"
   ],
-  "author": "crito <crito@cryptodrunks.net>",
+  "author": "Niko <niko@syrianarchive.org>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://gitlab.com/littlefork/littlefork-boilerplate-plugin/issues"
+    "url": "https://github.com/syrianarchive/littlefork-plugin-dem/issues"
   },
-  "homepage": "https://gitlab.com/littlefork/littlefork-boilerplate-plugin#README",
+  "homepage": "https://github.com/syrianarchive/littlefork-plugin-dem#README",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-eslint": "^7.2.1",
