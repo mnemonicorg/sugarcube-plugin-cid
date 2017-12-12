@@ -1,5 +1,5 @@
 {
-  "name": "sugarcube-cid",
+  "name": "sugarcube-plugin-cid",
   "version": "0.0.1",
   "description": "digital evidence metadata fields",
   "main": "_dist/index.js",
