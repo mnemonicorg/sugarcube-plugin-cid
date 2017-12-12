@@ -1,4 +1,3 @@
-# Littlefork-plugin-DEM
+# Sugarcube Conflict Investigation Data
 
-digital evidence metadata fields
-
+A sugarcube plugin that contains fields and transformations for conflict investigation data
