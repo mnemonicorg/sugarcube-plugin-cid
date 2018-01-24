@@ -53,9 +53,13 @@
     "sinon": "^2.1.0"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "dateformat": "^2.0.0",
     "@sugarcube/core": "^0.3.0",
-    "lodash": "^4.17.4"
+    "@sugarcube/plugin-youtube": "^0.4.0",
+    "bluebird": "^3.5.0",
+    "dashp": "^0.8.1",
+    "dateformat": "^2.0.0",
+    "lodash": "^4.17.4",
+    "pify": "^3.0.0",
+    "request": "^2.83.0"
   }
 }
